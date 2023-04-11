@@ -1,3 +1,2 @@
 # A Carnival of Rust Code Challenges
-
-## Borrowed from LinkedIn Learning by Tim Mcnamarra 
+*Borrowed from LinkedIn Learning by Tim McNamara*
